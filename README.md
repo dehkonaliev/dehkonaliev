@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Maqsudjon 👋</h1>
+<h1 align="center">Hi there, I'm Maqsudbek 👋</h1>
 <h3 align="center">Backend Developer • Python & Django • Building full-stack products end-to-end</h3>
 
 <p align="center">
@@ -81,16 +81,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dehkonaliev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehkonaliev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dehkonaliev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dehkonaliev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dehkonaliev&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dehkonaliev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
