@@ -32,7 +32,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🎓 <a href="https://curiosite.uz">Curiosite</a></h4>
-      <p>A live course-learning platform where instructors create and sell courses, and students learn through structured lessons, quizzes, and a gamified XP/leaderboard system. Includes real-time chat and per-course group discussions.</p>
+      <p>A live course-learning platform where instructors create and sell courses, and students learn through structured lessons, quizzes, and a gamified XP/leaderboard system. Includes real-time chat and per-course group discussions</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square"/>
